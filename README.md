@@ -8,9 +8,9 @@ I'm Eduardo, a passionate **Java Developer** with a strong foundation in **SQL**
 - **Administrative Support**
 - **Graphic Production** for social media
 - **Video Editing** for reels
-- **Copywriting** for social media
+- **Copy** for social media
 - **Sales & Customer Service**
-- **Google Ads & Office Suite**
+- **Google Ads & OFFICE Package**
 
 ### Currently Learning
 - **Java**
@@ -18,7 +18,7 @@ I'm Eduardo, a passionate **Java Developer** with a strong foundation in **SQL**
 - **HTML**
 - **JavaScript**
 - **CSS**
-- 
+
 ## Pronouns
 He/Him (ELE/DELE)
 
