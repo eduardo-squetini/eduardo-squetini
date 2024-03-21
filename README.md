@@ -1,8 +1,40 @@
-- 👋 Hi, I’m @eduardo-squetini
-- 👀 I’m interested in developing programs to enhance our daily basis;
-- 🌱 I’m currently learning Java, SQL, HTML, JavaScript, CSS;
-- 💞️ I’m looking to collaborate on systems improvements to the user 
-- 📫 How to reach me eduardosquetini@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: The more you collide in life, the stronger you got
+# Welcome to Eduardo Squetini de Campos' GitHub Profile! 👋
+
+!Welcome Banner
+
+## About Me
+I'm Eduardo, a passionate **Java Developer** with a strong foundation in **SQL** and **ERP Systems**.
+
+!Java
+!SQL
+!ERP
+
+### Other Skills
+- **ERP & POS Systems**
+- **Administrative Support**
+- **Graphic Production** for social media
+- **Video Editing** for reels
+- **Copywriting** for social media
+- **Sales & Customer Service**
+- **Google Ads & Office Suite**
+
+### Currently Learning
+- **Java**
+- **SQL**
+- **HTML**
+- **JavaScript**
+- **CSS**
+
+!Learning
+
+## Pronouns
+He/Him (ELE/DELE)
+
+## Let's Connect!
+Feel free to reach out to me at 📧 eduardosquetini@gmail.com.
+
+---
+
+*This README is a brief overview of my professional skills and interests. For more detailed projects and code samples, please explore my repositories.*
+
 
