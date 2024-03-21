@@ -1,6 +1,6 @@
 # Welcome to Eduardo Squetini de Campos' GitHub Profile! 👋
 
-!Welcome Banner
+![Welcome Banner](https://bing.com/th?id=OIP.X2zTOrvmhmURq7QKD_T-MAHaC9)
 
 ## About Me
 I'm Eduardo, a passionate **Java Developer** with a strong foundation in **SQL** and **ERP Systems**.
@@ -17,6 +17,8 @@ I'm Eduardo, a passionate **Java Developer** with a strong foundation in **SQL**
 - **Copywriting** for social media
 - **Sales & Customer Service**
 - **Google Ads & Office Suite**
+- 
+![ERP & POS Systems](https://bing.com/th?id=OIP.r3T4JvgAoelM4fPgkwI3sgHaIC)
 
 ### Currently Learning
 - **Java**
@@ -25,7 +27,7 @@ I'm Eduardo, a passionate **Java Developer** with a strong foundation in **SQL**
 - **JavaScript**
 - **CSS**
 
-!Learning
+![Java](https://bing.com/th?id=OIP.If2-QhkKV2NFkm0yh-kAEwHaK9) ![SQL](https://bing.com/th?id=OIP.4FgSJ6MAFBT33Iy1noQw9wHaEK) ![Learning](https://bing.com/th?id=OIP.3833CXt6wTj5isfAgpRF9QHaEK)
 
 ## Pronouns
 He/Him (ELE/DELE)
